@@ -20,3 +20,13 @@ Tasks completed
 8.  Convert List to Tuple
 9.  Check if a Key Exists in a Dictionary
 10.  Calculate Average Marks
+
+Python Programming: Data Processing and Analysis 
+
+Tasks completed
+1. Employee Performance Bonus Eligibility
+2. Search Query Keyword Analysis
+3. Sensor Data Validation
+4. Email Domain Usage Analysis
+5. Sales Spike Detection
+6. Duplicate User ID Detection
